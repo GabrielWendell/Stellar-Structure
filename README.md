@@ -127,7 +127,7 @@ Le fichier starsdata.txt (donnees du diagramme H-R) comporte :
 
 ---
 
-Exemple de resultat :
+## Exemple de resultat :
 
 ![](graphiques/plot_with_conv_Kdiff.png)
 
