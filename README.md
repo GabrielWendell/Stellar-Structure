@@ -125,3 +125,8 @@ Le fichier starsdata.txt (donnees du diagramme H-R) comporte :
 * colonne 4: parallaxe observee (arcsec)
 * colonne 5: incertitude dans la parallaxe (milliarcsec)
 
+---
+
+Exemple de resultat :
+
+![](graphiques/plot_with_conv_Kdiff.png)
