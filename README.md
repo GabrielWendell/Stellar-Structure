@@ -129,11 +129,22 @@ Le fichier starsdata.txt (donnees du diagramme H-R) comporte :
 
 ## Exemple de resultat :
 
+Structure interne d'une etoile :
+
 ![](graphiques/plot_with_conv_Kdiff.png)
+
+
+Densite centrale, fractions massiques et zones convectives en fonction de la masse de l'etoile :
 
 ![](graphiques/visureg_rho_R50_L90.png)
 
+
+Diagramme de Hertzprung-Russel pour des etoiles couvrant une bonne partie du spectre des possibilites :
+
 ![](graphiques/H-R.png)
+
+
+Diagramme de Hertzprung-Russel avec 7 etoiles connues et leurs correspondantes calculees :
 
 ![](graphiques/hr_7stars.png)
 
