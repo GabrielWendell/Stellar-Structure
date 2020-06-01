@@ -130,3 +130,12 @@ Le fichier starsdata.txt (donnees du diagramme H-R) comporte :
 Exemple de resultat :
 
 ![](graphiques/plot_with_conv_Kdiff.png)
+
+![](graphiques/visureg_rho_R50_L90.png)
+
+![](graphiques/H-R.png)
+
+![](graphiques/hr_7stars.png)
+
+
+
